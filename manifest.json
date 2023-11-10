@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "version":"1.0.0",
+    "name":"color picker",
+    "description":"This is a random color picker app on click",
+    "author":"Abhishek",
+    "action":{
+        "default_popup":"index.html"
+    }
+}
